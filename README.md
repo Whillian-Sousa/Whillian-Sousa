@@ -1,4 +1,4 @@
-## Welcome to Whillian's profile 😁
+## Okey Dokey  
 
  <div>
    <a href="https://github.com/Whillian-Sousa">
@@ -19,8 +19,5 @@
 <div> 
   <a href="https://instagram.com/lordgodbird" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:whillscf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ![Snake animation](https://github.com/Whillian-Sousa/Whillian-Sousa/blob/output/github-contribution-grid-snake.svg)
-
+  <a href="https://www.linkedin.com/in/whillian-sousa-0b5647303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
