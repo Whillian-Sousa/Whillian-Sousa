@@ -1,5 +1,5 @@
 ## Call me Whill!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=EA8ADF&random=false&width=435&lines=Freelancer+Web+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=EA8ADF&random=false&width=435&lines=Freelancer+Web+Designer)](https://git.io/typing-svg)
 
 <div>
    <a href="https://github.com/Whillian-Sousa">
