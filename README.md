@@ -14,6 +14,12 @@
 </div>
  
  <br>
+
+ <div align="center" >
+    
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/Whillian-Sousa?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&weeks=30&theme=pink)
+
+ </div>
  
   ### Entering this dreamlike universe of programming.
  
