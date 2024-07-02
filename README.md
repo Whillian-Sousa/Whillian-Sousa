@@ -1,6 +1,17 @@
 ## Call me Whill!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=EA8ADF&random=false&width=435&lines=Freelancer+Web+Designer)](https://git.io/typing-svg)
 
+<div style="text-color: #F1E05A">
+
+Formado em administração e autodidata em programação. <br/>
+Me dedico ao Desenvolvimento Web no ecosistema React, com nextJs/vite e tailwind.
+<br/>
+<br/>
+Graduated in administration and self-taught in programming. <br/>
+I dedicate myself to Web Development in the React ecosystem, with nextJs/vite and tailwind.
+
+</div>
+
 <div>
    <a href="https://github.com/Whillian-Sousa">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whillian-Sousa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,12 +39,14 @@
 
 
  
-  ### Entering this dreamlike universe of programming.
- 
-<div> 
-  <a href="https://www.linkedin.com/in/whillian-sousa-0b5647303/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/lordgodbird" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:whillscf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <h2 align="center">Entering this dreamlike universe of programming.</h2>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/whillian-sousa-0b5647303/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://instagram.com/lordgodbird" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /></a>
 </div>
+
