@@ -19,14 +19,21 @@ I dedicate myself to Web Development in the React ecosystem, with nextJs/vite an
 
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="react" height="30" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/c6061262-5b95-4905-927e-9086890f494a">
-  <img align="center" alt="tailwind" height="30" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/1391c8d1-a411-4088-87e3-11943ef3fb4e">
-  <img align="center" alt="typescript" height="30" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/7867e96b-21f0-4135-a6ad-42e35cd74583">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="threeJs" height="30" width="30" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/ca827dd9-6e89-42ca-8fd8-61c732945a55">
-  <img align="center" alt="gsap" height="40" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/dc69d5d4-df80-46c7-a006-fe2028fae1a5">
-  <img align="center" alt="framer_motion" height="30" width="30" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/52e6ba12-67a4-4633-95c0-e3f54eba5a57">
-  <img align="center" alt="node" height="30" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/b50f59cb-d6fb-4361-aea7-08cf3f73147b">
+  <img align="center" alt="react" height="40" width="50" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/c6061262-5b95-4905-927e-9086890f494a">
+  <img width="3" />
+  <img align="center" alt="tailwind" height="40" width="50" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/1391c8d1-a411-4088-87e3-11943ef3fb4e">
+  <img width="3" />
+  <img align="center" alt="typescript" height="40" width="50" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/7867e96b-21f0-4135-a6ad-42e35cd74583">
+  <img width="6" />
+  <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img width="6" />
+  <img align="center" alt="threeJs" height="40" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/ca827dd9-6e89-42ca-8fd8-61c732945a55">
+  <img width="6" />
+  <img align="center" alt="gsap" height="50" width="50" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/dc69d5d4-df80-46c7-a006-fe2028fae1a5">
+  <img width="6" />
+  <img align="center" alt="framer_motion" height="40" width="40" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/52e6ba12-67a4-4633-95c0-e3f54eba5a57">
+  <img width="6" />
+  <img align="center" alt="node" height="40" width="50" src="https://github.com/Whillian-Sousa/Whillian-Sousa/assets/135404385/b50f59cb-d6fb-4361-aea7-08cf3f73147b">
 </div>
  
  <br>
